@@ -15,7 +15,7 @@ Clone repository:
 
 ```bash
 git https://github.com/panascharoenruk/sort-merge-array.git
-cd merge-sorted-array
+cd sort-merge-array
 ```
 
 Install dependencies:
