@@ -14,7 +14,7 @@ Merge and sorted 3 arrays into one with O(n) complexity
 Clone repository:
 
 ```bash
-git clone <your-repo-url>
+git https://github.com/panascharoenruk/sort-merge-array.git
 cd merge-sorted-array
 ```
 
