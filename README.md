@@ -1,6 +1,6 @@
 # Merge Sorted Arrays
 
-TypeScript project for merging 3 sorted arrays without using any built-in sort function.
+Merge and sorted 3 arrays into one with O(n) complexity
 
 ## Requirements
 
