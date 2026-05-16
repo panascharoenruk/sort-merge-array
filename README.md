@@ -1,5 +1,7 @@
 # Merge Sorted Arrays
-merge 3 array into one sorted array 
+
+TypeScript project for merging 3 sorted arrays without using any built-in sort function.
+
 ## Requirements
 
 - Node.js >= 18
@@ -49,42 +51,3 @@ Compiled files will be generated in:
 ```bash
 dist/
 ```
-
----
-
-## Project Structure
-
-```txt
-src/
-  merge.ts
-
-tests/
-  merge.test.ts
-```
-
----
-
-## Algorithm Complexity
-
-Time Complexity:
-
-```txt
-O(n)
-```
-
-Space Complexity:
-
-```txt
-O(n)
-```
-
----
-
-## Notes
-
-- Does not use any built-in sorting functions
-- Uses merge-style algorithm
-- Handles:
-  - empty arrays
-  - duplicate values
-  - descending collection_2
