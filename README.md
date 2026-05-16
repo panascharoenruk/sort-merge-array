@@ -1,7 +1,4 @@
 # Merge Sorted Arrays
-
-TypeScript project for merging 3 sorted arrays without using any built-in sort function.
-
 ## Requirements
 
 - Node.js >= 18
