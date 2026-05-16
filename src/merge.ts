@@ -19,7 +19,6 @@ export function merge(
     const value3 = k < collection3.length ? collection3[k] : Number.POSITIVE_INFINITY || Number.NEGATIVE_INFINITY;
 
     const numberToAdd = Math.min(value1, value2, value3);
-    console.log('numberToAdd:', numberToAdd);
     mergedCollection.push(numberToAdd);
     if (numberToAdd === value1) {
       i++;
