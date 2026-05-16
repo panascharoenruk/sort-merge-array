@@ -1,4 +1,5 @@
 # Merge Sorted Arrays
+merge 3 array into one sorted array 
 ## Requirements
 
 - Node.js >= 18
