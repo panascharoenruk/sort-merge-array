@@ -31,13 +31,6 @@ npm install
 ```bash
 npm test
 ```
-
-Watch mode:
-
-```bash
-npm run test:watch
-```
-
 ---
 
 ## Build Project
